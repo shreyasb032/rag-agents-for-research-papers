@@ -1,0 +1,12 @@
+# requirements.txt
+
+# Core LLM and RAG framework
+langchain==0.1.16
+langchain-google-genai==0.0.7
+langchain-community==0.0.32
+
+# Streamlit for web UI
+streamlit==1.34.0
+
+# Misc dependencies (update as required)
+numpy>=1.23
